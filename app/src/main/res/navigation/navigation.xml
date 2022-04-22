@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/listFragment">
+    <fragment
+        android:id="@+id/listFragment"
+        android:name="com.wildraion.taskmanager.fragments.list.ListFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_list" >
+        <action
+            android:id="@+id/action_listFragment_to_updateFragment"
+            app:destination="@id/updateFragment" />
+        <action
+            android:id="@+id/action_listFragment_to_addFragment"
+            app:destination="@id/addFragment" />
+        <action
+            android:id="@+id/action_listFragment_to_selectFragment"
+            app:destination="@id/selectFragment" />
+        <action
+            android:id="@+id/action_listFragment_to_weatherFragment"
+            app:destination="@id/weatherFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addFragment"
+        android:name="com.wildraion.taskmanager.fragments.add.AddFragment"
+        android:label="@string/add_task"
+        tools:layout="@layout/fragment_add" >
+        <action
+            android:id="@+id/action_addFragment_to_listFragment"
+            app:destination="@id/listFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/updateFragment"
+        android:name="com.wildraion.taskmanager.fragments.update.UpdateFragment"
+        android:label="Edit Task"
+        tools:layout="@layout/fragment_update" >
+        <action
+            android:id="@+id/action_updateFragment_to_listFragment"
+            app:destination="@id/listFragment" />
+        <argument
+            android:name="currentTask"
+            app:argType="com.wildraion.taskmanager.model.Task" />
+    </fragment>
+    <fragment
+        android:id="@+id/selectFragment"
+        android:name="com.wildraion.taskmanager.fragments.select.SelectFragment"
+        android:label="Task View"
+        tools:layout="@layout/fragment_select" >
+        <action
+            android:id="@+id/action_selectFragment_to_listFragment"
+            app:destination="@id/listFragment" />
+        <argument
+            android:name="currentTask"
+            app:argType="com.wildraion.taskmanager.model.Task" />
+        <action
+            android:id="@+id/action_selectFragment_to_updateFragment"
+            app:destination="@id/updateFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/weatherFragment"
+        android:name="com.wildraion.taskmanager.fragments.weather.WeatherFragment"
+        android:label="Weather"
+        tools:layout="@layout/fragment_weather" >
+        <action
+            android:id="@+id/action_weatherFragment_to_listFragment"
+            app:destination="@id/listFragment" />
+    </fragment>
+</navigation>

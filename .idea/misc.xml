@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/dividing_line.xml" value="0.1225" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/empty_divider_40.xml" value="0.2165" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/empty_divider_5.xml" value="0.1" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_01d.xml" value="0.2355" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_01n.xml" value="0.2355" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_02d.xml" value="0.2355" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_02n.xml" value="0.2355" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_03d.xml" value="0.2355" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_add.xml" value="0.2355" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2255" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_circle_empty.xml" value="0.188" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_circle_fill.xml" value="0.188" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_clock.xml" value="0.188" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_edit.xml" value="0.188" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_fade.xml" value="0.129" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_fade1.xml" value="0.129" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_location.xml" value="0.188" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_menu.xml" value="0.188" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_search.xml" value="0.188" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_tags.xml" value="0.188" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_tick.xml" value="0.188" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_trash.xml" value="0.188" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/round_rect_shape.xml" value="0.1" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/rounded_boder.xml" value="0.129" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/layout/colortag_menu.xml" value="0.5" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/layout/fragment_add.xml" value="0.33" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/layout/fragment_list.xml" value="0.22" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/layout/fragment_main_list.xml" value="0.33" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/layout/fragment_select.xml" value="0.33" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/layout/fragment_task_done.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/layout/fragment_tasks_page.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/layout/fragment_unfulfilled.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/layout/fragment_update.xml" value="0.33" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/layout/fragment_weather.xml" value="0.75" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/layout/nav_header_main.xml" value="0.33" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/layout/popup.xml" value="0.67" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/layout/tag_item.xml" value="1.25" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/layout/task_layout.xml" value="0.25" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/layout/taskdone_page.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/layout/toolbar_title.xml" value="0.5" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/layout/unfulfilled_page.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/layout/weather_layout.xml" value="0.33" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/menu/activity_main_drawer.xml" value="0.67" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/menu/colortag_popup_menu.xml" value="0.25" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/menu/delete_menu.xml" value="0.2064814814814815" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/menu/delete_mune.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/menu/edit_menu.xml" value="0.2" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/menu/search_menu.xml" value="0.33" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/menu/sidebar_menu.xml" value="0.33" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/menu/update_menu.xml" value="0.24074074074074073" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1345" />
+        <entry key="..\:/Users/PC_OWN/AndroidStudioProjects/TaskManager/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

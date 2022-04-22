@@ -1,0 +1,69 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TaskManager" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+
+        <item name="android:iconTint">@color/white</item>
+        <item name="android:colorBackground">@color/main_bg</item>
+
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/lato</item>
+    </style>
+
+    <style name="CustomActionBarTheme" parent="@style/ThemeOverlay.MaterialComponents.Dark.ActionBar">
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+
+    <style name="CustomActionBarStyle" parent="Widget.MaterialComponents.Light.ActionBar.Solid">
+        <item name="titleTextStyle">@style/CustomTitleTextStyle</item>
+    </style>
+
+    <style name="CustomTitleTextStyle" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="fontFamily">@font/lato</item>
+    </style>
+
+    <style name="ButtonMain" parent="@android:style/Widget.Button">
+        <item name="android:backgroundTint">@color/white</item>
+        <item name="android:textAppearance">@style/ButtonMain.Text</item>
+    </style>
+
+    <style name="ButtonMain.Text" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TabBackground">
+        <item name="tint">@color/tab_bg_dark</item>
+    </style>
+
+    <style name="TabSelectorBackground">
+        <item name="tint">@color/white</item>
+    </style>
+
+    <style name="ColorTagBg">
+        <item name="android:backgroundTint">@color/tab_bg_dark</item>
+    </style>
+
+
+    <style name="TabHighlighted">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TabHidden">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="BottomFade">
+        <item name="tint">@color/main_bg</item>
+    </style>
+
+</resources>
